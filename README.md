@@ -22,5 +22,12 @@ Udacity-Artificial_Intelligence
 
 -------
 
+## Secure and Private AI
 
+Learn how to extend PyTorch with the tools necessary to train AI models that preserve user privacy.
+
+
+
+
+-------
 
